@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Pacifico&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1282a2;
+  --color-secondary: #034078;
+  --color-active: #b7e3cc;
+  --font-logo: "Pacifico", cursive;
+  --font-heading: "Poppins", sans-serif;
+}
+
+body {
+  --font-body: "Inter", sans-serif;
+}

@@ -1,0 +1,333 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Software Engineer",
+      "position": "Internship",
+      "company": "Garmin",
+      "location": "Topeka, KS",
+      "status": "Interviewing",
+      "dateApplied": "2025-03-24",
+      "deadline": "2025-04-25",
+      "description": "Work with a team of engineers to build scalable software solutions."
+    },
+    {
+      "id": "2",
+      "title": "Software Engineer",
+      "position": "Full-Time Job",
+      "company": "Apple",
+      "location": "San Jose, CA",
+      "status": "Applying",
+      "dateApplied": "2025-04-15",
+      "deadline": "2025-05-07",
+      "description": "Join our innovative team and contribute to cutting-edge technology."
+    },
+    {
+      "id": "3",
+      "title": "Frontend Developer",
+      "position": "Internship",
+      "company": "Google",
+      "location": "Mountain View, CA",
+      "status": "Interviewing",
+      "dateApplied": "2025-03-18",
+      "deadline": "2025-04-10",
+      "description": "Assist in frontend development and improve user experience."
+    },
+    {
+      "id": "4",
+      "title": "Backend Engineer",
+      "position": "Part-Time Job",
+      "company": "Meta",
+      "location": "Menlo Park, CA",
+      "status": "No Response",
+      "dateApplied": "2025-03-22",
+      "deadline": "2025-04-15",
+      "description": "Help maintain backend systems and ensure high performance."
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Developer",
+      "position": "Full-Time Job",
+      "company": "Microsoft",
+      "location": "Redmond, WA",
+      "status": "Applied",
+      "dateApplied": "2025-03-09",
+      "deadline": "2025-03-30",
+      "description": "Develop full-stack applications with modern frameworks."
+    },
+    {
+      "id": "6",
+      "title": "Machine Learning",
+      "position": "Internship",
+      "company": "Tesla",
+      "location": "Austin, TX",
+      "status": "Rejected",
+      "dateApplied": "2025-03-15",
+      "deadline": "2025-04-05",
+      "description": "Apply machine learning models to solve real-world problems."
+    },
+    {
+      "id": "7",
+      "title": "DevOps",
+      "position": "Full-Time Job",
+      "company": "Netflix",
+      "location": "Los Gatos, CA",
+      "status": "Accepted",
+      "dateApplied": "2025-02-28",
+      "deadline": "2025-03-20",
+      "description": "Maintain CI/CD pipelines and infrastructure services."
+    },
+    {
+      "id": "8",
+      "title": "iOS Developer",
+      "position": "Internship",
+      "company": "Spotify",
+      "location": "New York, NY",
+      "status": "Applied",
+      "dateApplied": "2025-03-26",
+      "deadline": "2025-04-20",
+      "description": "Design and develop native iOS applications."
+    },
+    {
+      "id": "9",
+      "title": "Cloud Engineering",
+      "position": "Part-Time Job",
+      "company": "Amazon",
+      "location": "Seattle, WA",
+      "status": "Interviewing",
+      "dateApplied": "2025-03-25",
+      "deadline": "2025-04-22",
+      "description": "Support cloud infrastructure and automation processes."
+    },
+    {
+      "id": "10",
+      "title": "AI Research",
+      "position": "Internship",
+      "company": "NVIDIA",
+      "location": "Santa Clara, CA",
+      "status": "Applying",
+      "dateApplied": "2025-03-10",
+      "deadline": "2025-04-12",
+      "description": "Conduct AI research and collaborate on experimental models."
+    },
+    {
+      "id": "11",
+      "title": "Software Engineering",
+      "position": "Full-Time Job",
+      "company": "Adobe",
+      "location": "San Jose, CA",
+      "status": "Applied",
+      "dateApplied": "2025-03-14",
+      "deadline": "2025-04-15",
+      "description": "Develop core software features and collaborate cross-functionally."
+    },
+    {
+      "id": "12",
+      "title": "QA",
+      "position": "Internship",
+      "company": "Intel",
+      "location": "Hillsboro, OR",
+      "status": "No Response",
+      "dateApplied": "2025-03-20",
+      "deadline": "2025-04-18",
+      "description": "Test and ensure the quality of new features and applications."
+    },
+    {
+      "id": "13",
+      "title": "Web Developer",
+      "position": "Part-Time Job",
+      "company": "Airbnb",
+      "location": "San Francisco, CA",
+      "status": "Rejected",
+      "dateApplied": "2025-03-10",
+      "deadline": "2025-04-03",
+      "description": "Build responsive and accessible web interfaces."
+    },
+    {
+      "id": "14",
+      "title": "UX Engineer",
+      "position": "Internship",
+      "company": "Snapchat",
+      "location": "Los Angeles, CA",
+      "status": "Applying",
+      "dateApplied": "2025-03-08",
+      "deadline": "2025-03-28",
+      "description": "Design intuitive UI/UX for new product features."
+    },
+    {
+      "id": "15",
+      "title": "Game Developer",
+      "position": "Full-Time Job",
+      "company": "Epic Games",
+      "location": "Cary, NC",
+      "status": "Applied",
+      "dateApplied": "2025-03-02",
+      "deadline": "2025-03-25",
+      "description": "Create immersive and interactive game features."
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "firstName": "Alice",
+      "lastName": "Nguyen",
+      "company": "Google",
+      "email": "alice.nguyen@google.com",
+      "phone": "(650) 555-1234"
+    },
+    {
+      "id": "2",
+      "firstName": "Brandon",
+      "lastName": "Lee",
+      "company": "Amazon",
+      "email": "brandon.lee@amazon.com",
+      "phone": "(206) 555-9876"
+    },
+    {
+      "id": "3",
+      "firstName": "Chloe",
+      "lastName": "Martinez",
+      "company": "Meta",
+      "email": "chloe.m@meta.com",
+      "phone": "(415) 555-3210"
+    },
+    {
+      "id": "4",
+      "firstName": "Daniel",
+      "lastName": "Kim",
+      "company": "Netflix",
+      "email": "dan.kim@netflix.com",
+      "phone": "(213) 555-7777"
+    },
+    {
+      "id": "5",
+      "firstName": "Emma",
+      "lastName": "Chen",
+      "company": "Spotify",
+      "email": "emma.chen@spotify.com",
+      "phone": "(212) 555-8899"
+    },
+    {
+      "id": "6",
+      "firstName": "Frank",
+      "lastName": "Lin",
+      "company": "Tesla",
+      "email": "frank.lin@tesla.com",
+      "phone": "(650) 555-4567"
+    },
+    {
+      "id": "7",
+      "firstName": "Grace",
+      "lastName": "Park",
+      "company": "Adobe",
+      "email": "grace.park@adobe.com",
+      "phone": "(408) 555-0099"
+    },
+    {
+      "id": "8",
+      "firstName": "Hannah",
+      "lastName": "Tran",
+      "company": "Apple",
+      "email": "hannah.tran@apple.com",
+      "phone": "(408) 555-1122"
+    },
+    {
+      "id": "9",
+      "firstName": "Ivan",
+      "lastName": "Petrov",
+      "company": "Intel",
+      "email": "ivan.petrov@intel.com",
+      "phone": "(503) 555-7887"
+    },
+    {
+      "id": "10",
+      "firstName": "Jasmine",
+      "lastName": "Singh",
+      "company": "Airbnb",
+      "email": "jasmine.singh@airbnb.com",
+      "phone": "(415) 555-4444"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "OpenAI",
+      "location": "San Francisco, CA",
+      "email": "contact@openai.com",
+      "website": "https://openai.com",
+      "phone": "(415) 555-0101"
+    },
+    {
+      "id": "2",
+      "name": "Spotify",
+      "location": "New York, NY",
+      "email": "support@spotify.com",
+      "website": "https://spotify.com",
+      "phone": "(212) 555-2260"
+    },
+    {
+      "id": "3",
+      "name": "Adobe",
+      "location": "San Jose, CA",
+      "email": "info@adobe.com",
+      "website": "https://adobe.com",
+      "phone": "(408) 555-8800"
+    },
+    {
+      "id": "4",
+      "name": "Stripe",
+      "location": "Seattle, WA",
+      "email": "team@stripe.com",
+      "website": "https://stripe.com",
+      "phone": "(206) 555-3344"
+    },
+    {
+      "id": "5",
+      "name": "Figma",
+      "location": "Remote",
+      "email": "hello@figma.com",
+      "website": "https://figma.com",
+      "phone": "(888) 555-9911"
+    },
+    {
+      "id": "6",
+      "name": "Netflix",
+      "location": "Los Gatos, CA",
+      "email": "jobs@netflix.com",
+      "website": "https://netflix.com",
+      "phone": "(213) 555-7777"
+    },
+    {
+      "id": "7",
+      "name": "Airbnb",
+      "location": "San Francisco, CA",
+      "email": "careers@airbnb.com",
+      "website": "https://airbnb.com",
+      "phone": "(415) 555-2323"
+    },
+    {
+      "id": "8",
+      "name": "Meta",
+      "location": "Menlo Park, CA",
+      "email": "meta@jobs.com",
+      "website": "https://meta.com",
+      "phone": "(650) 555-4000"
+    },
+    {
+      "id": "9",
+      "name": "Google",
+      "location": "Mountain View, CA",
+      "email": "google@careers.com",
+      "website": "https://google.com",
+      "phone": "(650) 555-1000"
+    },
+    {
+      "id": "10",
+      "name": "Tesla",
+      "location": "Austin, TX",
+      "email": "jobs@tesla.com",
+      "website": "https://tesla.com",
+      "phone": "(512) 555-2020"
+    }
+  ]
+}
